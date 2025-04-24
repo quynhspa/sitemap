@@ -1,0 +1,7 @@
+User-agent: *
+Disallow:
+
+Allow: *.css
+Allow: *.js
+
+Sitemap: https://quynhspa.github.io/sitemap/sitemap.xml
